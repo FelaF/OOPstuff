@@ -13,6 +13,8 @@ JeffsBody.Summarize()
 JeffsBody.Dance()
 JeffsBody.Dance()
 JeffsBody.Dance()
+JeffsBody.CuttParts()
+JeffsBody.CuttParts()
     
 
     
