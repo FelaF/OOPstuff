@@ -15,6 +15,8 @@ JeffsBody.Dance()
 JeffsBody.Dance()
 JeffsBody.CuttParts()
 JeffsBody.CuttParts()
+
+print(JeffsBody)
     
 
     

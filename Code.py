@@ -4,6 +4,7 @@ class Body:
         self.weight = weight
         self.temp = temp
         self.hands = hands
+        
         Face = True
         teeth = False
 
@@ -14,7 +15,9 @@ class Body:
         print({F"{self.temp}"})
         return self
     def CuttParts(self):
-        self.hands != self.hands
+        if self.hands == self.hands:
+            return not self.hands
         print(F"{self.hands}")
+        print(F"{self}")
         return self
 
